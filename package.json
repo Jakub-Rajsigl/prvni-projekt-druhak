@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "bootswatch": "^5.3.8",
+    "ckeditor": "^4.12.1",
+    "font-awesome": "^4.7.0",
+    "tinymce": "^8.9.1",
+    "tom-select": "^2.6.2"
+  }
+}
